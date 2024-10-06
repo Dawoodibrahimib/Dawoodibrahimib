@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **js,css,tailwind,scss and bootstrap**
 
-- 📫 How to reach me **dawoodibrahim010@gmail.com**
+
 
 - ⚡ Fun fact **I am a introvert**
 
